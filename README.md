@@ -1,4 +1,4 @@
-# Screenshot
+# Screenshots
 
 Screenshots of a matchup between myself and the CPU.  
   
