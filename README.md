@@ -1,6 +1,6 @@
 # Screenshot
 
-Screenshots of a matchup between me and the CPU.  
+Screenshots of a matchup between myself and the CPU.  
   
 ![screenshot-1](Images/1.jpg)  
 ------
