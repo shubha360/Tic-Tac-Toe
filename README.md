@@ -1,2 +1,6 @@
-# Tic-Tac-Toe
-My first personal development using C++. This tic-tac-toe game has both single and double player game mode. The CPU AI in the single player game mode has a medium ranged difficulty.
+# Scrrenshot
+
+Screenshots of a matchup between me and the CPU.  
+  
+![screenshot-1](Images/1.jpg)  
+![screenshot-2](Images/2.jpg)
